@@ -8,7 +8,7 @@ BitBot simplifies the academic experience by providing comprehensive course hand
 
 Nutritional Guidance:
 
-Achieving your fitness goals is easier than ever with BitBot's personalized nutritional plans. Tailored to your body type and fitness objectives, these plans provide practical recommendations and dietary advice to support your journey towards optimal health and well-being.
+Achieving your fitness goals is easier than ever with BitBot's personalized nutritional plans using the mess menu and other food outlets through out campus. Tailored to your body type and fitness objectives, these plans provide practical recommendations and dietary advice to support your journey towards optimal health and well-being.
 
 Features:
 
